@@ -12,8 +12,11 @@ Training for 5 epochs.
 #### Learning graph
 ![graph](https://github.com/hololee/dcgan/blob/master/learning_graph.png?raw=true)  
 
-#### output
+#### output  
+  
+|data images|generated images|
+|----|----|  
 |![out](https://github.com/hololee/dcgan/blob/master/data_img.png?raw=true)|![out](https://github.com/hololee/dcgan/blob/master/output.png?raw=true)|
-|--|--|
+
 
 
