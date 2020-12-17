@@ -10,10 +10,10 @@ Followed pytorch tutorial and implement below paper.
 Training for 5 epochs.    
 
 #### Learning graph
-![graph]()  
+![graph](https://github.com/hololee/dcgan/blob/master/learning_graph.png?raw=true)  
 
 #### output
-|![out]()|![out]()|
+|![out](https://github.com/hololee/dcgan/blob/master/data_img.png?raw=true)|![out](https://github.com/hololee/dcgan/blob/master/output.png?raw=true)|
 |--|--|
 
 
